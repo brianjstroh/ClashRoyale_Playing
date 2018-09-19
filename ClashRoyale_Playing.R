@@ -8,3 +8,4 @@ warHistory<-read.table(paste0("war_history_",Sys.Date(),".csv"),header=TRUE, sep
 
 #Has complete war history: https://royaleapi.com/inc/player/cw_history?player_tag=9L9LCYY8
 #Join tournaments: https://royaleapi.com/tournaments/open >In Preparation>Open
+#test_update
